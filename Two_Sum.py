@@ -7,3 +7,5 @@ class Solution:
                     if i != j :
                         return i,j
             
+            
+         
